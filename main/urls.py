@@ -1,3 +1,4 @@
+# tambahan tutorial 2
 from django.urls import path
 from main.views import show_main, create_news, show_news
 from main.views import show_main, create_news, show_news, show_xml
